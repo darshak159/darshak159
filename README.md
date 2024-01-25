@@ -6,6 +6,7 @@
 I love using Git and GitHub for version control and collaboration. I'm always eager to learn new technologies and collaborate on projects that challenge me to grow as a developer.
 
 Currently exploring opportunities where I can contribute to impactful software projects and grow my expertise in web development.
+
 ## 🛠 Skills
 - **Languages**: Python, Java, JavaScript, C++
 - **Web Development**: HTML, CSS, ReactJS, Node.js
